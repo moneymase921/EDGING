@@ -206,7 +206,8 @@ function BinTable({ bins }: BinTableProps) {
         { 
           header: 'Delta', 
           accessor: (row) => {
-            const deltaColor = row.delta > 0.02 ? 'text-emerald-400' : row.delta < -0.02 ? 'text-rose-400' : 'text-slate-300';
+            const delta = row.delta ?? 0;
+            const deltaColor = delta > 0.02 ? 'text-emerald-400' : delta < -0.02 ? 'text-rose-400' : 'text-slate-300';
             return <span className={deltaColor}>{toPct(row.delta, true)}</span>;
           }, 
           align: 'right' 
