@@ -1,0 +1,46 @@
+{
+  "node": {
+    "2746f7872804684d091eac75c828827c9aefd107": {
+      "workers": {
+        "app/two/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!",
+        "app/journal/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/two/page": "action-browser",
+        "app/journal/page": "action-browser"
+      }
+    },
+    "3bdc516333d1e8a236fc01cecf7b61a516ab13b7": {
+      "workers": {
+        "app/two/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!",
+        "app/journal/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/two/page": "action-browser",
+        "app/journal/page": "action-browser"
+      }
+    },
+    "db6d25980816824dd052444aed5bf722c59b827f": {
+      "workers": {
+        "app/two/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!",
+        "app/journal/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/two/page": "action-browser",
+        "app/journal/page": "action-browser"
+      }
+    },
+    "f39d25263bb8457e762ef7f03045c0822023051c": {
+      "workers": {
+        "app/two/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!",
+        "app/journal/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FBigM%2FDesktop%2Fedging%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22updateSlip%22%2C%22loadSlips%22%2C%22saveSlip%22%2C%22deleteSlip%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/two/page": "action-browser",
+        "app/journal/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "9qRTSle8PlBkOfOYehwrg08MtZuay1OJt09dQ35s/a4="
+}

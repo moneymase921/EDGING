@@ -1,0 +1,260 @@
+{
+  "slips": [
+    {
+      "id": "slip-1767755527473",
+      "createdAt": "2026-01-07T03:12:07.473Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767755527473",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767755527473",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7777777777777778,
+          "pImp": 0.7777777777777778,
+          "singleOddsInput": "-350"
+        }
+      ],
+      "pSlip": 0.5968992248062016,
+      "ev": 0.19379844961240322,
+      "rtp": 1.1937984496124032,
+      "status": "settled",
+      "leg1Result": "miss",
+      "leg2Result": "hit",
+      "slipResult": "loss",
+      "realizedReturnX": 0,
+      "realizedProfitUnits": -1
+    },
+    {
+      "id": "slip-1767825718154",
+      "createdAt": "2026-01-07T22:41:58.154Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767825718154",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767825718154",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.6666666666666666,
+          "pImp": 0.6666666666666666,
+          "singleOddsInput": "-200"
+        }
+      ],
+      "pSlip": 0.5116279069767442,
+      "ev": 0.023255813953488413,
+      "rtp": 1.0232558139534884,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "hit",
+      "slipResult": "win",
+      "realizedReturnX": 2,
+      "realizedProfitUnits": 1
+    },
+    {
+      "id": "slip-1767850431474",
+      "createdAt": "2026-01-08T05:33:51.474Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767850431474",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767850431474",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.6666666666666666,
+          "pImp": 0.6666666666666666,
+          "singleOddsInput": "-200"
+        }
+      ],
+      "pSlip": 0.5116279069767442,
+      "ev": 0.023255813953488413,
+      "rtp": 1.0232558139534884,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "miss",
+      "slipResult": "loss",
+      "realizedReturnX": 0,
+      "realizedProfitUnits": -1
+    },
+    {
+      "id": "slip-1767850586918",
+      "createdAt": "2026-01-08T05:36:26.918Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767850586918",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767850586918",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7777777777777778,
+          "pImp": 0.7777777777777778,
+          "singleOddsInput": "-350"
+        }
+      ],
+      "pSlip": 0.5968992248062016,
+      "ev": 0.19379844961240322,
+      "rtp": 1.1937984496124032,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "hit",
+      "slipResult": "win",
+      "realizedReturnX": 2,
+      "realizedProfitUnits": 1
+    },
+    {
+      "id": "slip-1767851190221",
+      "createdAt": "2026-01-08T05:46:30.221Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767851190221",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767851190221",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.6666666666666666,
+          "pImp": 0.6666666666666666,
+          "singleOddsInput": "-200"
+        }
+      ],
+      "pSlip": 0.5116279069767442,
+      "ev": 0.023255813953488413,
+      "rtp": 1.0232558139534884,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "miss",
+      "slipResult": "loss",
+      "realizedReturnX": 0,
+      "realizedProfitUnits": -1
+    },
+    {
+      "id": "slip-1767851538837",
+      "createdAt": "2026-01-08T05:52:18.837Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767851538837",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7674418604651163,
+          "pImp": 0.7674418604651163,
+          "singleOddsInput": "-330"
+        },
+        {
+          "id": "leg2-1767851538837",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.6666666666666666,
+          "pImp": 0.6666666666666666,
+          "singleOddsInput": "-200"
+        }
+      ],
+      "pSlip": 0.5116279069767442,
+      "ev": 0.023255813953488413,
+      "rtp": 1.0232558139534884,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "hit",
+      "slipResult": "win",
+      "realizedReturnX": 2,
+      "realizedProfitUnits": 1
+    },
+    {
+      "id": "slip-1767851662011",
+      "createdAt": "2026-01-08T05:54:22.011Z",
+      "payoutMultiplierX": 2.5,
+      "legs": [
+        {
+          "id": "leg1-1767851662011",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7493734335839599,
+          "pImp": 0.7493734335839599,
+          "singleOddsInput": "-299"
+        },
+        {
+          "id": "leg2-1767851662011",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.6551724137931034,
+          "pImp": 0.6551724137931034,
+          "singleOddsInput": "-190"
+        }
+      ],
+      "pSlip": 0.4909688013136289,
+      "ev": 0.22742200328407225,
+      "rtp": 1.2274220032840724,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "hit",
+      "slipResult": "win",
+      "realizedReturnX": 2.5,
+      "realizedProfitUnits": 1.5
+    },
+    {
+      "id": "slip-1767916015343",
+      "createdAt": "2026-01-08T23:46:55.343Z",
+      "payoutMultiplierX": 2,
+      "legs": [
+        {
+          "id": "leg1-1767916015343",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.75,
+          "pImp": 0.75,
+          "singleOddsInput": "-300"
+        },
+        {
+          "id": "leg2-1767916015343",
+          "chosenSide": "over",
+          "probabilitySource": "singleOdds",
+          "pChosen": 0.7142857142857143,
+          "pImp": 0.7142857142857143,
+          "singleOddsInput": "-250"
+        }
+      ],
+      "pSlip": 0.5357142857142857,
+      "ev": 0.0714285714285714,
+      "rtp": 1.0714285714285714,
+      "status": "settled",
+      "leg1Result": "hit",
+      "leg2Result": "hit",
+      "slipResult": "win",
+      "realizedReturnX": 2,
+      "realizedProfitUnits": 1
+    }
+  ]
+}
